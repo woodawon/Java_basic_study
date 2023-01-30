@@ -16,6 +16,8 @@ public class Stu2 {
 		//2
 		int put = scanner.nextInt();
 		System.out.println("값 : " + put);
+		
+		scanner.close();
 
 	}
 
