@@ -1,7 +1,5 @@
 package if_loop;
 
-import java.util.Iterator;
-
 public class Stu7 {
 
 	public static void main(String[] args) {

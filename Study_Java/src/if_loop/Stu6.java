@@ -31,6 +31,8 @@ public class Stu6 {
 			default:
 				System.out.println("월에 해당하는 수가 맞나요?");
 			}
+		
+		scanner.close();
 
 	    }
 
