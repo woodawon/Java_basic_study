@@ -6,6 +6,7 @@ public class Stu8 {
 
 		char[] ex = {'1', '2', '3'};
 		System.out.println(ex);
+		System.out.println(ex[0]);
 	
 
 	}
